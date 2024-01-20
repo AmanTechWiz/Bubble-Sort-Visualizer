@@ -1,4 +1,4 @@
-# Bubble-Sort-Visualizer
+![image](https://github.com/AmanTechWiz/Bubble-Sort-Visualizer/assets/148987557/875e5db8-785b-4b74-ba1a-b2235a36393f)# Bubble-Sort-Visualizer
 A simple web-based tool that visually demonstrates the bubble sort algorithm, accompanied by fun sound effects!
 
 ## Features:
@@ -20,6 +20,8 @@ JavaScript
 • Download index.html , style.css ,script.js files.
 
 • May need to specify the path of the font (ttf) file in the index.html file.
+
+• To control the speed of visualization , you can edit the speed value in the line 57!
 
 • Open the index.html file in your web browser.
 
