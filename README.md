@@ -17,7 +17,9 @@ JavaScript
 
 • Clone or download this repository.
 
-• Download index.html , style.css ,script.js, font files.
+• Download index.html , style.css ,script.js files.
+
+• May need to specify the path of the font (ttf) file in the index.html file.
 
 • Open the index.html file in your web browser.
 
