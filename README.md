@@ -26,9 +26,12 @@ JavaScript
 
 • Click the "Generate" button to create a new random array of bars.
 
-• Click the "Play" button to initiate the sorting process and hear the corresponding sounds.
+• Click the "New" button to initiate the sorting process and hear the corresponding sounds.
 
 • Observe the bars visually swapping positions as the sorting progresses, accompanied by audio cues.
+## Screenshots:
+
+
 ## Contributing:
 
 Feel free to contribute to this project by:
