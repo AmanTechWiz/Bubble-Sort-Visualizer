@@ -17,7 +17,7 @@ JavaScript
 
 • Clone or download this repository.
 
-• Download index.html , style.css ,script.js files.
+• Download index.html , style.css ,script.js, font files.
 
 • Open the index.html file in your web browser.
 
