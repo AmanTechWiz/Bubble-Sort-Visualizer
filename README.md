@@ -15,9 +15,13 @@ CSS
 JavaScript
 ## Installation:
 
-Clone or download this repository.
-Open the index.html file in your web browser.
-No additional installation or setup is required.
+• Clone or download this repository.
+
+• Download index.html , style.css ,script.js files.
+
+• Open the index.html file in your web browser.
+
+• No additional installation or setup is required.
 ## Usage:
 
 • Click the "Generate" button to create a new random array of bars.
